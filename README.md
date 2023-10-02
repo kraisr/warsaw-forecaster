@@ -5,4 +5,7 @@ The code was written in Jupyter Notebook.
 The SQL server is not updated
 
 ## Files from UOS 2019 hosted by Warsaw School of Computer Science
+
 ## Professor: Andrzej Ptasznik
+
+- Files can be found [here](UOS%20Files)
