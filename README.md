@@ -8,4 +8,5 @@ The SQL server is not updated
 - More information can be found on the official websites: [Polish version](https://wwsi.edu.pl/) or [English version](https://wscs.eu/)
 ## Professor: Andrzej Ptasznik
 
+- Original Jupyter Notebook files are located [here](UOS%20Files/Jupyter%20Notebooks)
 - Files can be found [here](UOS%20Files)
