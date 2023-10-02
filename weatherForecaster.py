@@ -67,12 +67,6 @@ plt.clabel(contour, fontsize='medium', inline_spacing=2, fmt='%d')
 
 # In[ ]:
 
-
-import pandas as pd
-import pyodbc
-import numpy as np
-import matplotlib.pyplot as plt
-
 okno=plt.figure(figsize=(14,10), dpi=100)
 polaczenie = pyodbc.connect("""DRIVER={ODBC Driver 17 for SQL Server};
                             SERVER=sqltester2018.wwsi.edu.pl;
